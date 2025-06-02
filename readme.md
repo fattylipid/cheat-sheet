@@ -1,1 +1,1 @@
-linux cheat sheet:
+ls: list files and directories
