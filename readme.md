@@ -7,3 +7,4 @@ cp: copy files and directories
 touch: create empty file
 
 git init: create new repo
+git clone: clone existing repo
