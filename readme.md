@@ -1,16 +1,16 @@
-ls: list files and directories
-cd: change directory
-pwd: print working directory
-mkdir: create new directory
-rm: remove files and directories
-cp: copy files and directories
-touch: create empty file
+ls: list files and directories  
+cd: change directory  
+pwd: print working directory  
+mkdir: create new directory  
+rm: remove files and directories  
+cp: copy files and directories  
+touch: create empty file  
 
-git init: create new repo
-git clone: clone existing repo
-git add: add change in working repo
-git commit: capture snapshot of repo's current stage
-git push: update remote local repo content to remote repo
-git pull: pull changes from remote repo to current branch
-git branch: list, create, or delete branches
+git init: create new repo  
+git clone: clone existing repo  
+git add: add change in working repo  
+git commit: capture snapshot of repo's current stage  
+git push: update remote local repo content to remote repo  
+git pull: pull changes from remote repo to current branch  
+git branch: list, create, or delete branches  
 git config: configure and set up
